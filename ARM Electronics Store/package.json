@@ -1,0 +1,12 @@
+{
+    "name": "armelectronics",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "sass./sass/style.scss style.css --watch"
+    },
+    "author": "abdul ghaffar",
+    "license": "ISC"
+}
